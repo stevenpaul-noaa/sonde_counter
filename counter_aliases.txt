@@ -1,0 +1,364 @@
+A Wilson (?):
+	AVW
+Akshar Patel:
+	AJP
+	AP
+Alan Goldstein:
+	A. GOLDSTEIN
+	A.. GOLDSTEIN
+	ALAN  GOLDSTEIN
+	ALAN GOLDSTEIN
+	ALAN GOLDSTEINALAN GOLDSTEIN
+	ALAN S. GOLDSTEIN
+	ALANG
+	ASG
+	GOLDSTEIN
+Allison Michaelis (AR):
+	AM	2020-02-13	2020-02-13
+Andrew Penny (NHC):
+	ABP
+Anette Foerster (UHawaii):
+	AMF
+Angel Negron:
+	AN	2011-01-01	2011-12-31
+Ansaruddin Hasan (USPHS):
+	AH
+Anu Simon (NHC):
+	ANU
+Auston Roche:
+	ASR	2022-01-01	2022-09-30
+Alfredo Santoni:
+	ASR	2022-10-01
+	AS	2022-10-01
+Beth Kerr:
+	BK	2005-01-01	2006-12-31
+	KERR
+Bill Olney:
+	OLENY
+	OLNEY
+	WO	2010-11-04	2010-11-04
+Bobby Peek:
+	BGP
+	BOBBY PEEK
+	BP	2010-09-01	2010-09-02
+	PEEK
+Brian Dykeman:
+	BRD
+	BRIAN DYKEMAN
+Carlos Quiles:
+	CRQ
+Charles Lynch:
+	CFL
+Chris Hornbrook:
+	C FH
+	CFH
+	CHRIS HORNBROOK
+Chuck Rasco:
+	RASCO
+Dale Carpenter:
+	CARP
+	CARPENTER
+	D CARP
+	D CARPENTER
+	D. CARPENTER
+	D.CARPENTER
+	DALE	2010-05-07	2010-05-07
+	DC	1998-01-01	1999-01-01
+	DC	1999-01-15	1999-01-15
+	DWC
+Dale Offutt:
+	DALE OFFUTTL
+	OFFUTT
+Damon Sans Souci:
+	DAMON SANS SOUCI
+	DSS
+	SANS SOUCI
+Dan Lino:
+	DANIEL T. LINO
+	DTL
+	DTLINO
+Dan Van Ravenswaay (Teach/Air):
+	DVR
+Dana Naeher:
+	DAN
+	DANA
+Dave Brogan:
+	BROGAN
+	DAVE
+	DAVID BROGAN
+	DB	2005-01-01	2006-12-31
+	DGB
+Dave Fox:
+	DF	2005-01-01	2005-12-31
+David Bishop (???):
+	DAB
+Dean Lauritsen (NCAR):
+	D. LAURITSEN
+	DEAN	2009-03-03	2009-03-04
+	DEAN	2017-03-13	2017-03-13
+Donna Keene:
+	DONNA S. KEENE
+Elena Konopleva (ERSL/PSD):
+	EK	2016-02-03	2016-02-03
+Gabe Defeo:
+	DEFEO
+	GABE
+	GD	2006-01-01	2006-12-31
+	GD	2008-01-01	2008-12-31
+	GD	2009-01-01
+	GPD
+Henry Kotz:
+	HK
+Jackie Almeida:
+	JRA
+Jake Lambert:
+	JL
+	JJL
+Jalime Vargas:
+	JV
+James Carpenter:
+	JMC
+Jason Mansour:
+	JASON	2019-09-19	2019-09-19
+Jason Hunsinger:
+	JH	2024-08-01
+	JRH
+Jeff Hartberger:
+	JEH
+	JH	2015-08-01	2015-08-04
+Jeff Newnam:
+	JKN
+Jeff Smith:
+	J AS
+	J SMITH
+	J. SMITH
+	JA SMITH
+	JAS
+	JAS/CFH
+	JEFF	2007-08-29	2007-08-29
+	JEFF	2009-08-18	2009-08-19
+	JEFF S
+	JEFF SMITH
+	JEFFS
+	JS	2013-01-22	2013-01-22
+	JS	2014-08-26	2014-08-26
+	JSMIT H
+	JSMITH
+	SMITH
+Jim Barr:
+	BARR
+	JAMES BARR
+	JIM BARR
+	JMB
+Jim Roles:
+	J. ROLES
+	JAMES H. ROLES
+	JHR
+	JIM R
+	JIM ROLES
+	JROLES
+	ROLES
+	ROLESROLES
+	SROLE
+Jim Warnecke:
+	JGW
+	J GW
+	JW
+	JWARN
+	WARNECKE
+Joe Bishop:
+	JB	2008-07-17	2008-07-17
+Joe Bosko:
+	BOSKO
+	JOE B
+	JOEB
+Joe Greene:
+	GREENE
+	JG	2008-01-01
+	JOE	2010-01-07	2010-01-08
+	JOEG
+Joe Mazur:
+	JMM	
+John Hill:
+	HILL
+	J HILL
+	JH	2009-03-07	2009-03-08
+	JOHN HILL
+	JOHNH
+	JWH
+	JWH/JCPB
+	TESTJWH
+Jorge Delgado:
+	DELGADO
+	JED
+	JORGE DELGADO
+Jorge Gonzalez:
+	JG	1997-07-19	1997-07-21
+	JUG
+Juan Carlos Pradas-Bergnes:
+	JC  PRADAS
+	JC PRADAS
+	JCP
+	JCPB
+	JCPB/JAS
+	JCPB/JWH
+	JCPRADAS
+	JUAN C	1999-10-04	1999-10-04
+	JUAN C JUAN C PRADAS
+	JUAN C PRADAS
+	JUAN C. PRADAS
+	JUAN C. PRADAS-BERGNES
+	JUAN C.RADAS
+	JUAN CARLOS PRADAS-BERGNES
+	PRADAS
+Katherine McCaffrey (ERSL/PSD):
+	KLM
+Kathryn Sellwood (HRD):
+	SELLWOOD
+Kelly Mahoney (ERSL/PSD):
+	KM	2016-02-03	2016-02-03
+Kelvin Richards (UHawaii):
+	KJR
+Ken Norris (NCAR):
+	KEN
+Kevin Rotteveel:
+	AKR
+Kyle Smith (Intern):
+	KJS
+Leanne Waggoner:
+	LW
+Leonard Miller:
+	LM
+Mark Finke:
+	MARK S FINKE
+	MSF
+Mark Rogers:
+	MER
+	MERMER
+	MERRT
+	ROGERS
+Marty Mayeaux:
+	MM	2004-02-21	2004-02-21
+Matthew DeTienne:
+	MTD
+Michael McAlister:
+	MAC
+	MACDADDY
+Mike Mascaro:
+	MAASCARO
+	MAM
+	MASCARO
+Mike Mueller (ERSL/PSD):
+	MJM
+N/A:
+	''
+	AS	2016-05-20	2016-05-20
+	DROP 1
+	DROP 10
+	DROP 11
+	DROP 12
+	DROP 13
+	DROP 14
+	DROP 15
+	DROP 16
+	DROP 17
+	DROP 18
+	DROP 19
+	DROP 2
+	DROP 20
+	DROP 21
+	DROP 22
+	DROP 23
+	DROP 24
+	DROP 25
+	DROP 26
+	DROP 3
+	DROP 4
+	DROP 5
+	DROP 6
+	DROP 7
+	DROP 8
+	DROP 9
+	MM	2015-10-28	2015-10-28
+	NONE
+	NOT ENTERED
+	TEST
+	TESTTEST
+Nathan Knebel:
+	NRK
+Nick Spinler (Intern):
+	NCS
+Nick Underwood:
+	NGU
+Nikki Hathaway:
+	NH	2020-03-01	2020-03-01
+Orelon Sidney (CNN):
+	ORELON SIDNEY
+Paul Flaherty:
+	PTF
+Phil Hall:
+	HALL
+	PHIL HALL
+Ray Tong:
+	R T	2002-01-01	2004-01-01
+	RT	2002-01-01	2007-01-01
+	RTRT
+Rebecca Keller:
+	RK
+Rennie Andrews:
+	RLA
+	RA
+Rich Henning:
+	RGH
+	RH
+	RICH	2019-09-20	2019-09-20
+Richard McNamara:
+	R J MCNAMARA
+	R MCNAMARA
+	R. MCNAMARA
+	R.MCNAMARA
+	RICHARD MCNAMARA
+	RJM
+Rob Miletic:
+	ROB	2017-09-21	2017-09-21
+Rocky Weinmann:
+	RLW
+Scott Hollis:
+	DSH
+Sean McMillan:
+	MCMILLAN
+	SEAN
+	SEAN MCMILLAN
+	STM
+	STM / TRS
+Sean White:
+	SEAN WHITE
+	SRW
+Shannon McElhinney (UHawaii):
+	SLM
+Sofia de Solo:
+	SMS
+Steven Paul:
+	SCP
+	STEVEN PAUL
+Terry Hock (NCAR):
+	TERRY HOCK
+Terry Lynch:
+	T. LYNCH
+	TERRY LYNCH
+	TL	2003-01-01	2004-01-01
+	TML
+Todd Richards:
+	RICHARDS
+	TMR
+	TODD R
+	TR
+Tom Brannigan:
+	THB
+	TB
+Tom Corrigham (AR):
+	TC	2020-02-13	2020-02-13
+Valerie Thaler (NWS Portland):
+	VT	2020-03-07	2020-03-07
+Will Odell:
+	WRO
