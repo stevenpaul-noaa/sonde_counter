@@ -574,7 +574,7 @@ if (len(sys.argv) < 2) or (len(sys.argv)==3) or (len(sys.argv) > 4):
     exit()
 
 from shutil import copyfile
-copyfile(sys.argv[0],startscript+'_'+sys.argv[0])
+copyfile(sys.argv[0],startscript + '_' + os.path.basename(sys.argv[0]))
 
 start_dir = sys.argv[1]
 #if start_dir[-1] != '/':
