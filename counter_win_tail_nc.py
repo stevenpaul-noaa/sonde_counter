@@ -419,7 +419,7 @@ def process_file(root, filename, aliases, minmaxdate, dropdata, tots, badfiles, 
         dropdata.append((UID,filedate,name,origname,id,root+'\\'+filename,filename,lat,lon,tail))
     else:
         tots['dupe'] += 1
-        dupefiles.append('DUPE: OF: '+dropdata[seen_uids.index(UID)][6]+' DF: '+ filename + ' NAME: '+name+' DUPE:'+root+'\\'+filename+ ' ORIG: '+dropdata[seen_uids.index(UID)][2]+' '+dropdata[seen_uids.index(UID)][5])
+        dupefiles.append('DUPE: OF: '+dropdata[seen_uids.index(UID)][6]+' '+UID+' DF: '+ filename + ' NAME: '+name+' DUPE:'+root+'\\'+filename+ ' ORIG: '+dropdata[seen_uids.index(UID)][2]+' '+dropdata[seen_uids.index(UID)][5])
         return
     
     return
