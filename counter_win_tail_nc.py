@@ -582,7 +582,8 @@ if (len(sys.argv) < 2) or (len(sys.argv)==3) or (len(sys.argv) > 4):
     exit()
 
 from shutil import copyfile
-copyfile(sys.argv[0],startscript + '_' + os.path.basename(sys.argv[0]))
+copied_script_path = startscript + '_' + os.path.basename(sys.argv[0])
+copyfile(sys.argv[0], copied_script_path)
 
 start_dir = sys.argv[1]
 #if start_dir[-1] != '/':
@@ -1045,11 +1046,11 @@ ZipFile.write(startscript+'_counter_duplicates.txt',    compress_type=zipfile.ZI
 ZipFile.write(startscript+'_counter_summary.txt',       compress_type=zipfile.ZIP_DEFLATED)
 ZipFile.write(startscript+'_counter_totals_fy.txt',     compress_type=zipfile.ZIP_DEFLATED)
 ZipFile.write(startscript+'_counter_totals_cy.txt',     compress_type=zipfile.ZIP_DEFLATED)
-ZipFile.write(startscript+'_'+sys.argv[0],      compress_type=zipfile.ZIP_DEFLATED)
+ZipFile.write(copied_script_path, compress_type=zipfile.ZIP_DEFLATED)
 
 
 
-copyfile(startscript+'_counter_dropper_names.txt', 'counter_dropper_names.txt' )
+copyfile(startscript+'_counter_dropper_names.txt', 'counter_dropper_names.txt' ) 
 copyfile(startscript+'_counter_aliases_out.txt',   'counter_aliases_out.txt' )
 copyfile(startscript+'_counter_aliases_sorted.txt','counter_aliases_sorted.txt' )
 copyfile(startscript+'_counter_all_drops_tail.txt'    , 'counter_all_drops_tail.txt'     )
@@ -1069,7 +1070,7 @@ os.remove(startscript+'_counter_duplicates.txt'    )
 os.remove(startscript+'_counter_summary.txt'       )
 os.remove(startscript+'_counter_totals_fy.txt'     )
 os.remove(startscript+'_counter_totals_cy.txt'     )
-os.remove(startscript+'_'+sys.argv[0]  )
+os.remove(copied_script_path)
 
 print("DONE")
 
