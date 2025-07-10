@@ -466,6 +466,7 @@ def process_file_nc(root, filename, aliases, minmaxdate, dropdata, tots, badfile
     serial = 'No Serial Number'
     lat = 0
     lon = 0
+    alt = 0
 
     # read attributes
     try:    
@@ -488,19 +489,26 @@ def process_file_nc(root, filename, aliases, minmaxdate, dropdata, tots, badfile
     if drop_launch_obs_str.strip():
         try:
             drop_launch_obs = json.loads(drop_launch_obs_str)
+            lat = float(drop_launch_obs.get('latitude', 0))
+            lon = float(drop_launch_obs.get('longitude', 0))
+            alt = float(drop_launch_obs.get('gps_mean_sea_level', 0))
         except json.JSONDecodeError:
-            # If it's not JSON, assume it's a comma-separated string
-            drop_launch_obs_list = drop_launch_obs_str.split(',')
-        
-            # Extract values based on known positions
-            drop_launch_obs = {
-                "latitude": float(drop_launch_obs_list[2]) if len(drop_launch_obs_list) > 2 and drop_launch_obs_list[2] else None,
-                "longitude": float(drop_launch_obs_list[3]) if len(drop_launch_obs_list) > 3 and drop_launch_obs_list[3] else None,
-            }
+            # If it's not JSON, then it's a bad format.
+            tots['bad'] += 1
+            badfiles.append(filename + f': BAD DropLaunchObs format (not JSON): {drop_launch_obs_str} in {root}\\{filename}')
+            return # Exit early if data is unparseable
+
     else:
-        drop_launch_obs = {}  # fallback to an empty dict
-    lat = float(drop_launch_obs.get('latitude', 0))
-    lon = float(drop_launch_obs.get('longitude', 0))
+        # If DropLaunchObs is missing/empty
+        tots['bad'] += 1
+        badfiles.append(filename + ': No DropLaunchObs attribute: '+root+'\\'+filename)
+        return # Exit early if this critical attribute is missing
+
+    # Now, perform altitude validation for NetCDF files
+    if alt < 100:
+        tots['bad'] += 1
+        badfiles.append(filename + f': Launch Alt too low: {alt} meters {root}\\{filename}')
+        return
 
     #uppercase name and look for in it aliases file, substitute name if found
     name=name.replace('\r','')
