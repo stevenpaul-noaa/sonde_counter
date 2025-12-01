@@ -13,7 +13,7 @@ all_drops now outputs more data than before
 
 2025-03-06 SCP: Updated to append tail number after lat and long
 
-
+2025-12-01 SCP: Updated to account for new netCDF file name convention.
 
 USAGE: python <this_file_name>.py "Start Directory"
 Should have a valid 'aliases.txt' file
@@ -430,22 +430,39 @@ def process_file_nc(root, filename, aliases, minmaxdate, dropdata, tots, badfile
     year='0000'
     
     # Regular expression to match the expected format
-    pattern = r"^([A-Za-z0-9_-]+)-([A-Za-z0-9_-]+)-([0-9]+)-?(\d{8}T\d{6})?-([A-Za-z0-9_-]+)\.nc$"
+    #pattern = r"^([A-Za-z0-9_-]+)-([A-Za-z0-9_-]+)-([0-9]+)-?(\d{8}T\d{6})?-([A-Za-z0-9_-]+)\.nc$"
+    pattern = r"^([A-Za-z0-9_-]+)-([^-]*)-([0-9]+)-([A-Za-z0-9_-]+)-([0-9]+)\.nc$"
     match = re.match(pattern, os.path.basename(filename))
     
     if match:
-        project_name = match.group(1)
-        mission_id = match.group(2)
+        project_name = match.group(4)
+        mission_id = match.group(1)
         drop_number = match.group(3)
-        filedate = match.group(4)  # YYYYMMDDTHHMMSS
+        filedate = match.group(2)  # YYYYMMDDTHHMMSS
         channel = match.group(5)
-        if filedate == None:
-            tots['bad'] += 1
-            badfiles.append(filename + ': NO LAUNCH TIME: '+root+'\\'+filename)
-            return
-        else:
+        
+        #if filedate == "":
+        #    tots['bad'] += 1
+        #    badfiles.append(filename + ': NO LAUNCH TIME: '+root+'\\'+filename)
+        #    return
+        #else:
+        #    launch_date_int = int(filedate[0:8])
+        #    year=filedate[0:4] 
+
+        # --- NEW LOGIC: CHECK IF filedate MATCHES THE REQUIRED FORMAT ---
+        time_pattern = r'^\d{8}T\d{6}$'
+        
+        if re.match(time_pattern, filedate):
+            # If the format is correct (e.g., 20251030T191342), proceed with processing.
             launch_date_int = int(filedate[0:8])
-            year=filedate[0:4] 
+            year = filedate[0:4]  
+        else:
+            # This handles two cases now:
+            # 1. filedate is "" (the NO LAUNCH TIME case)
+            # 2. filedate is a non-standard corrupted string
+            tots['bad'] += 1
+            badfiles.append(filename + ': NO LAUNCH TIME/BAD TIME FORMAT: '+root+'\\'+filename)
+            return
 
     else:
         tots['bad'] += 1
