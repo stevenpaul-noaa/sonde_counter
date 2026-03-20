@@ -1,0 +1,276 @@
+                                                           N/A               0        99999999
+                  A. GOLDSTEIN                  Alan Goldstein               0        99999999
+                 A.. GOLDSTEIN                  Alan Goldstein               0        99999999
+                           ABP              Andrew Penny (NHC)               0        99999999
+                            AH        Ansaruddin Hasan (USPHS)               0        99999999
+                           AJP                    Akshar Patel               0        99999999
+                           AKR                 Kevin Rotteveel               0        99999999
+               ALAN  GOLDSTEIN                  Alan Goldstein               0        99999999
+                ALAN GOLDSTEIN                  Alan Goldstein               0        99999999
+  ALAN GOLDSTEINALAN GOLDSTEIN                  Alan Goldstein               0        99999999
+             ALAN S. GOLDSTEIN                  Alan Goldstein               0        99999999
+                         ALANG                  Alan Goldstein               0        99999999
+                            AM          Allison Michaelis (AR)        20200213        20200213
+                           AMF       Anette Foerster (UHawaii)               0        99999999
+                            AN                    Angel Negron        20110101        20111231
+                           ANU                 Anu Simon (NHC)               0        99999999
+                            AP                    Akshar Patel               0        99999999
+                            AS                 Alfredo Santoni        20221001        99999999
+                            AS                             N/A        20160520        20160520
+                           ASG                  Alan Goldstein               0        99999999
+                           ASR                    Auston Roche        20220101        20220930
+                           ASR                 Alfredo Santoni        20221001        99999999
+                           AVW                    A Wilson (?)               0        99999999
+                          BARR                        Jim Barr               0        99999999
+                           BGP                      Bobby Peek               0        99999999
+                            BK                       Beth Kerr        20050101        20061231
+                    BOBBY PEEK                      Bobby Peek               0        99999999
+                         BOSKO                       Joe Bosko               0        99999999
+                            BP                      Bobby Peek        20100901        20100902
+                           BRD                   Brian Dykeman               0        99999999
+                 BRIAN DYKEMAN                   Brian Dykeman               0        99999999
+                        BROGAN                     Dave Brogan               0        99999999
+                          C FH                 Chris Hornbrook               0        99999999
+                          CARP                  Dale Carpenter               0        99999999
+                     CARPENTER                  Dale Carpenter               0        99999999
+                           CFH                 Chris Hornbrook               0        99999999
+                           CFL                   Charles Lynch               0        99999999
+               CHRIS HORNBROOK                 Chris Hornbrook               0        99999999
+                           CRQ                   Carlos Quiles               0        99999999
+                        D CARP                  Dale Carpenter               0        99999999
+                   D CARPENTER                  Dale Carpenter               0        99999999
+                  D. CARPENTER                  Dale Carpenter               0        99999999
+                  D. LAURITSEN           Dean Lauritsen (NCAR)               0        99999999
+                   D.CARPENTER                  Dale Carpenter               0        99999999
+                           DAB              David Bishop (???)               0        99999999
+                          DALE                  Dale Carpenter        20100507        20100507
+                  DALE OFFUTTL                     Dale Offutt               0        99999999
+              DAMON SANS SOUCI                Damon Sans Souci               0        99999999
+                           DAN                     Dana Naeher               0        99999999
+                          DANA                     Dana Naeher               0        99999999
+                DANIEL T. LINO                        Dan Lino               0        99999999
+                          DAVE                     Dave Brogan               0        99999999
+                  DAVID BROGAN                     Dave Brogan               0        99999999
+                            DB                     Dave Brogan        20050101        20061231
+                            DC                  Dale Carpenter        19980101        19990101
+                            DC                  Dale Carpenter        19990115        19990115
+                          DEAN           Dean Lauritsen (NCAR)        20090303        20090304
+                          DEAN           Dean Lauritsen (NCAR)        20170313        20170313
+                         DEFEO                      Gabe Defeo               0        99999999
+                       DELGADO                   Jorge Delgado               0        99999999
+                            DF                        Dave Fox        20050101        20051231
+                           DGB                     Dave Brogan               0        99999999
+                            DN                        Dion Ngo               0        99999999
+                DONNA S. KEENE                     Donna Keene               0        99999999
+                        DROP 1                             N/A               0        99999999
+                       DROP 10                             N/A               0        99999999
+                       DROP 11                             N/A               0        99999999
+                       DROP 12                             N/A               0        99999999
+                       DROP 13                             N/A               0        99999999
+                       DROP 14                             N/A               0        99999999
+                       DROP 15                             N/A               0        99999999
+                       DROP 16                             N/A               0        99999999
+                       DROP 17                             N/A               0        99999999
+                       DROP 18                             N/A               0        99999999
+                       DROP 19                             N/A               0        99999999
+                        DROP 2                             N/A               0        99999999
+                       DROP 20                             N/A               0        99999999
+                       DROP 21                             N/A               0        99999999
+                       DROP 22                             N/A               0        99999999
+                       DROP 23                             N/A               0        99999999
+                       DROP 24                             N/A               0        99999999
+                       DROP 25                             N/A               0        99999999
+                       DROP 26                             N/A               0        99999999
+                        DROP 3                             N/A               0        99999999
+                        DROP 4                             N/A               0        99999999
+                        DROP 5                             N/A               0        99999999
+                        DROP 6                             N/A               0        99999999
+                        DROP 7                             N/A               0        99999999
+                        DROP 8                             N/A               0        99999999
+                        DROP 9                             N/A               0        99999999
+                           DSH                    Scott Hollis               0        99999999
+                           DSS                Damon Sans Souci               0        99999999
+                           DTL                        Dan Lino               0        99999999
+                        DTLINO                        Dan Lino               0        99999999
+                           DVR  Dan Van Ravenswaay (Teach/Air)               0        99999999
+                           DWC                  Dale Carpenter               0        99999999
+                            EK      Elena Konopleva (ERSL/PSD)        20160203        20160203
+                          GABE                      Gabe Defeo               0        99999999
+                            GD                      Gabe Defeo        20060101        20061231
+                            GD                      Gabe Defeo        20080101        20081231
+                            GD                      Gabe Defeo        20090101        99999999
+                     GOLDSTEIN                  Alan Goldstein               0        99999999
+                           GPD                      Gabe Defeo               0        99999999
+                        GREENE                      Joe Greene               0        99999999
+                          HALL                       Phil Hall               0        99999999
+                          HILL                       John Hill               0        99999999
+                            HK                      Henry Kotz               0        99999999
+                          J AS                      Jeff Smith               0        99999999
+                          J GW                    Jim Warnecke               0        99999999
+                        J HILL                       John Hill               0        99999999
+                       J SMITH                      Jeff Smith               0        99999999
+                      J. ROLES                       Jim Roles               0        99999999
+                      J. SMITH                      Jeff Smith               0        99999999
+                      JA SMITH                      Jeff Smith               0        99999999
+                    JAMES BARR                        Jim Barr               0        99999999
+                JAMES H. ROLES                       Jim Roles               0        99999999
+       JAMES.WARNECKE@NOAA.GOV                    Jim Warnecke               0        99999999
+                           JAS                      Jeff Smith               0        99999999
+                       JAS/CFH                      Jeff Smith               0        99999999
+                         JASON                   Jason Mansour        20190919        20190919
+                            JB                      Joe Bishop        20080717        20080717
+                    JC  PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                     JC PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                           JCP      Juan Carlos Pradas-Bergnes               0        99999999
+                          JCPB      Juan Carlos Pradas-Bergnes               0        99999999
+                      JCPB/JAS      Juan Carlos Pradas-Bergnes               0        99999999
+                      JCPB/JWH      Juan Carlos Pradas-Bergnes               0        99999999
+                      JCPRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                           JED                   Jorge Delgado               0        99999999
+                          JEFF                      Jeff Smith        20070829        20070829
+                          JEFF                      Jeff Smith        20090818        20090819
+                        JEFF S                      Jeff Smith               0        99999999
+                    JEFF SMITH                      Jeff Smith               0        99999999
+                         JEFFS                      Jeff Smith               0        99999999
+                           JEH                 Jeff Hartberger               0        99999999
+                            JG                      Joe Greene        20080101        99999999
+                            JG                  Jorge Gonzalez        19970719        19970721
+                           JGW                    Jim Warnecke               0        99999999
+                            JH                 Jason Hunsinger        20240801        99999999
+                            JH                 Jeff Hartberger        20150801        20150804
+                            JH                       John Hill        20090307        20090308
+                           JHR                       Jim Roles               0        99999999
+                      JIM BARR                        Jim Barr               0        99999999
+                         JIM R                       Jim Roles               0        99999999
+                     JIM ROLES                       Jim Roles               0        99999999
+                           JJL                    Jake Lambert               0        99999999
+                           JKN                     Jeff Newnam               0        99999999
+                            JL                    Jake Lambert               0        99999999
+                           JMB                        Jim Barr               0        99999999
+                           JMC                 James Carpenter               0        99999999
+                           JMM                       Joe Mazur               0        99999999
+                           JOE                      Joe Greene        20100107        20100108
+                         JOE B                       Joe Bosko               0        99999999
+                          JOEB                       Joe Bosko               0        99999999
+                          JOEG                      Joe Greene               0        99999999
+                     JOHN HILL                       John Hill               0        99999999
+                         JOHNH                       John Hill               0        99999999
+                 JORGE DELGADO                   Jorge Delgado               0        99999999
+                           JRA                  Jackie Almeida               0        99999999
+                           JRH                 Jason Hunsinger               0        99999999
+                        JROLES                       Jim Roles               0        99999999
+                            JS                      Jeff Smith        20130122        20130122
+                            JS                      Jeff Smith        20140826        20140826
+                       JSMIT H                      Jeff Smith               0        99999999
+                        JSMITH                      Jeff Smith               0        99999999
+                        JUAN C      Juan Carlos Pradas-Bergnes        19991004        19991004
+          JUAN C JUAN C PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                 JUAN C PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                JUAN C. PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+        JUAN C. PRADAS-BERGNES      Juan Carlos Pradas-Bergnes               0        99999999
+                  JUAN C.RADAS      Juan Carlos Pradas-Bergnes               0        99999999
+    JUAN CARLOS PRADAS-BERGNES      Juan Carlos Pradas-Bergnes               0        99999999
+                           JUG                  Jorge Gonzalez               0        99999999
+                            JV                   Jalime Vargas               0        99999999
+                         JV/HK                   Jalime Vargas               0        99999999
+                            JW                    Jim Warnecke               0        99999999
+                         JWARN                    Jim Warnecke               0        99999999
+                           JWH                       John Hill               0        99999999
+                      JWH/JCPB                       John Hill               0        99999999
+                           KEN               Ken Norris (NCAR)               0        99999999
+                          KERR                       Beth Kerr               0        99999999
+                           KJR       Kelvin Richards (UHawaii)               0        99999999
+                           KJS             Kyle Smith (Intern)               0        99999999
+                           KLM  Katherine McCaffrey (ERSL/PSD)               0        99999999
+                            KM        Kelly Mahoney (ERSL/PSD)        20160203        20160203
+                  LAB@HERE.COM                             N/A               0        99999999
+                            LM                  Leonard Miller               0        99999999
+                            LW                 Leanne Waggoner               0        99999999
+                      MAASCARO                    Mike Mascaro               0        99999999
+                           MAC               Michael McAlister               0        99999999
+                      MACDADDY               Michael McAlister               0        99999999
+                           MAM                    Mike Mascaro               0        99999999
+                  MARK S FINKE                      Mark Finke               0        99999999
+                       MASCARO                    Mike Mascaro               0        99999999
+                           MBL                  Martin Longtin               0        99999999
+                      MCMILLAN                   Sean McMillan               0        99999999
+                           MER                     Mark Rogers               0        99999999
+                        MERMER                     Mark Rogers               0        99999999
+                         MERRT                     Mark Rogers               0        99999999
+                           MJM         Mike Mueller (ERSL/PSD)               0        99999999
+                            ML                  Martin Longtin               0        99999999
+                            MM                   Marty Mayeaux        20040221        20040221
+                            MM                             N/A        20151028        20151028
+                           MSF                      Mark Finke               0        99999999
+                           MTD                Matthew DeTienne               0        99999999
+                           NCS           Nick Spinler (Intern)               0        99999999
+                           NGU                  Nick Underwood               0        99999999
+                            NH                  Nikki Hathaway        20200301        20200301
+                          NONE                             N/A               0        99999999
+                   NOT ENTERED                             N/A               0        99999999
+                           NRK                   Nathan Knebel               0        99999999
+                        OFFUTT                     Dale Offutt               0        99999999
+                         OLENY                      Bill Olney               0        99999999
+                         OLNEY                      Bill Olney               0        99999999
+                 ORELON SIDNEY             Orelon Sidney (CNN)               0        99999999
+                          PEEK                      Bobby Peek               0        99999999
+                     PHIL HALL                       Phil Hall               0        99999999
+                        PRADAS      Juan Carlos Pradas-Bergnes               0        99999999
+                           PTF                   Paul Flaherty               0        99999999
+                  R J MCNAMARA                Richard McNamara               0        99999999
+                    R MCNAMARA                Richard McNamara               0        99999999
+                           R T                        Ray Tong        20020101        20040101
+                   R. MCNAMARA                Richard McNamara               0        99999999
+                    R.MCNAMARA                Richard McNamara               0        99999999
+                            RA                  Rennie Andrews               0        99999999
+                         RASCO                     Chuck Rasco               0        99999999
+                           RGH                    Rich Henning               0        99999999
+                            RH                    Rich Henning               0        99999999
+                          RICH                    Rich Henning        20190920        20190920
+              RICHARD MCNAMARA                Richard McNamara               0        99999999
+                      RICHARDS                   Todd Richards               0        99999999
+                           RJM                Richard McNamara               0        99999999
+                            RK                  Rebecca Keller               0        99999999
+                           RLA                  Rennie Andrews               0        99999999
+                           RLW                  Rocky Weinmann               0        99999999
+                           ROB                     Rob Miletic        20170921        20170921
+                        ROGERS                     Mark Rogers               0        99999999
+                         ROLES                       Jim Roles               0        99999999
+                    ROLESROLES                       Jim Roles               0        99999999
+                            RT                        Ray Tong        20020101        20070101
+                          RTRT                        Ray Tong               0        99999999
+                    SANS SOUCI                Damon Sans Souci               0        99999999
+                           SCP                     Steven Paul               0        99999999
+                          SEAN                   Sean McMillan               0        99999999
+                 SEAN MCMILLAN                   Sean McMillan               0        99999999
+                    SEAN WHITE                      Sean White               0        99999999
+                      SELLWOOD          Kathryn Sellwood (HRD)               0        99999999
+                           SLM    Shannon McElhinney (UHawaii)               0        99999999
+                         SMITH                      Jeff Smith               0        99999999
+                           SMS                   Sofia de Solo               0        99999999
+                            SO                     Sonia Otero               0        99999999
+                         SROLE                       Jim Roles               0        99999999
+                           SRW                      Sean White               0        99999999
+                   STEVEN PAUL                     Steven Paul               0        99999999
+                           STM                   Sean McMillan               0        99999999
+                     STM / TRS                   Sean McMillan               0        99999999
+                      T. LYNCH                     Terry Lynch               0        99999999
+                            TB                   Tom Brannigan               0        99999999
+                            TC              Tom Corrigham (AR)        20200213        20200213
+                    TERRY HOCK               Terry Hock (NCAR)               0        99999999
+                   TERRY LYNCH                     Terry Lynch               0        99999999
+                          TEST                             N/A               0        99999999
+                       TESTJWH                       John Hill               0        99999999
+                      TESTTEST                             N/A               0        99999999
+                           THB                   Tom Brannigan               0        99999999
+                            TL                     Terry Lynch        20030101        20040101
+                           TML                     Terry Lynch               0        99999999
+                           TMR                   Todd Richards               0        99999999
+                        TODD R                   Todd Richards               0        99999999
+                            TR                   Todd Richards               0        99999999
+                            VT   Valerie Thaler (NWS Portland)        20200307        20200307
+                      WARNECKE                    Jim Warnecke               0        99999999
+                           WEH                  Walter Holiday               0        99999999
+                           WGW                  Billy Wysinger               0        99999999
+                            WO                      Bill Olney        20101104        20101104
+                           WRO                      Will Odell               0        99999999

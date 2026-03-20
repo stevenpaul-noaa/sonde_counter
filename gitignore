@@ -1,0 +1,8 @@
+# Generated output file (latest copy written to script directory)
+counter_all_drops.txt
+
+# All timestamped run subfolders
+output/
+
+# Python virtual environment
+.venv/
