@@ -435,7 +435,7 @@ def process_file_nc(root, filename, aliases, minmaxdate, dropdata, tots, badfile
     
     # Regular expression to match the expected format
     #pattern = r"^([A-Za-z0-9_-]+)-([A-Za-z0-9_-]+)-([0-9]+)-?(\d{8}T\d{6})?-([A-Za-z0-9_-]+)\.nc$"
-    pattern = r"^([A-Za-z0-9_-]+)-([^-]*)-([0-9]+)-([A-Za-z0-9_-]+)-([0-9]+)\.nc$"
+    pattern = r"^([A-Za-z0-9_-]+)-([^-]*)-([0-9]+)-([A-Za-z0-9_() -]+)-([0-9]+)(?:_.*)?\.nc$"
     match = re.match(pattern, os.path.basename(filename))
     
     if match:

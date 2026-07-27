@@ -1,0 +1,579 @@
+
+------------------------------
+YEARLY TOTALS BY CALENDAR YEAR
+------------------------------
+
+NAME                            1996
+------------------------------  ----
+Phil Hall                          5
+Jeff Smith                         5
+Terry Hock (NCAR)                  3
+John Hill                          3
+Dean Lauritsen (NCAR)              2
+Sean McMillan                      2
+Alan Goldstein                     1
+Juan Carlos Pradas-Bergnes         1
+
+NAME                            1997
+------------------------------  ----
+Alan Goldstein                   370
+Juan Carlos Pradas-Bergnes       307
+John Hill                        141
+Jeff Smith                       130
+Dale Carpenter                    36
+Terry Lynch                       18
+Richard McNamara                  15
+Jorge Delgado                     12
+Dale Offutt                       10
+Jim Barr                          10
+Damon Sans Souci                   9
+Jorge Gonzalez                     9
+Jim Roles                          5
+Sean White                         1
+
+NAME                            1998
+------------------------------  ----
+Dale Carpenter                   319
+Chris Hornbrook                  208
+Sean McMillan                    201
+Juan Carlos Pradas-Bergnes       181
+Jeff Smith                       178
+Jim Barr                         144
+Alan Goldstein                   115
+John Hill                         92
+Jorge Delgado                     68
+Richard McNamara                  52
+Dan Lino                          39
+Terry Lynch                       29
+Jim Roles                         17
+Mark Finke                         7
+Sean White                         1
+
+NAME                            1999
+------------------------------  ----
+Jeff Smith                       316
+Alan Goldstein                   287
+Juan Carlos Pradas-Bergnes       286
+Dale Carpenter                   170
+Chris Hornbrook                  159
+Dan Lino                         152
+Richard McNamara                 104
+Sean McMillan                     52
+Jim Barr                          48
+Jorge Delgado                     45
+John Hill                         44
+Phil Hall                         30
+Jim Roles                         23
+Donna Keene                       18
+Mark Rogers                        8
+
+NAME                            2000
+------------------------------  ----
+John Hill                        242
+Juan Carlos Pradas-Bergnes       140
+Jeff Smith                       123
+Dale Carpenter                   108
+Alan Goldstein                    80
+Chris Hornbrook                   74
+Terry Lynch                       71
+Dan Lino                          61
+Dean Lauritsen (NCAR)             15
+Jim Roles                          1
+
+NAME                            2001
+------------------------------  ----
+Jeff Smith                       409
+Chris Hornbrook                  204
+Mark Rogers                      170
+Dan Lino                         118
+Sean McMillan                     68
+Jim Barr                          68
+Terry Lynch                       61
+Jim Roles                         57
+John Hill                         56
+Richard McNamara                  55
+Alan Goldstein                    54
+Dale Carpenter                    47
+Jorge Delgado                     38
+Mark Finke                         1
+
+NAME                            2002
+------------------------------  ----
+Dale Carpenter                   210
+Dave Brogan                      209
+Bobby Peek                       139
+Damon Sans Souci                 131
+Chris Hornbrook                  122
+Alan Goldstein                   108
+Richard McNamara                  97
+Ray Tong                          95
+Mark Rogers                       71
+Dan Lino                          70
+Jim Roles                         46
+Jeff Smith                        44
+Jorge Delgado                     39
+Jim Barr                          32
+John Hill                         17
+
+NAME                            2003
+------------------------------  ----
+Dave Brogan                      535
+Dale Carpenter                   329
+John Hill                        223
+Ray Tong                         146
+Chris Hornbrook                  120
+Jeff Smith                       119
+Mark Rogers                      118
+Bobby Peek                        88
+Jorge Delgado                     51
+Alan Goldstein                    40
+Jim Roles                         22
+Terry Lynch                        6
+Sean McMillan                      1
+
+NAME                            2004
+------------------------------  ----
+Dave Brogan                      767
+Jeff Smith                       426
+Dale Carpenter                   401
+John Hill                        394
+Mark Rogers                      202
+Jim Roles                        143
+Ray Tong                         108
+Jim Barr                          96
+Jorge Delgado                     64
+Alan Goldstein                    53
+Chris Hornbrook                   51
+Sean McMillan                     29
+Will Odell                        20
+Marty Mayeaux                      4
+Dan Van Ravenswaay (Teach/Air)     2
+Orelon Sidney (CNN)                1
+
+NAME                            2005
+------------------------------  ----
+Ray Tong                         647
+Bill Olney                       586
+Dale Carpenter                   561
+Dave Brogan                      429
+Mark Rogers                      355
+Jeff Smith                       340
+Beth Kerr                        305
+Damon Sans Souci                 243
+Jim Roles                        187
+John Hill                        158
+Sean McMillan                     99
+Jorge Delgado                     87
+Dave Fox                          57
+Jim Barr                          38
+Alan Goldstein                    29
+
+NAME                            2006
+------------------------------  ----
+Mark Rogers                      276
+Dale Carpenter                   257
+Chuck Rasco                      193
+Bill Olney                       154
+Ray Tong                         137
+Dave Brogan                      124
+Jeff Smith                       112
+Bobby Peek                        72
+John Hill                         60
+Beth Kerr                         28
+Jim Roles                         21
+Jim Barr                          21
+Alan Goldstein                    16
+Gabe Defeo                         1
+
+NAME                            2007
+------------------------------  ----
+Chuck Rasco                      410
+Gabe Defeo                       174
+Dale Carpenter                   149
+Dave Brogan                      136
+Jeff Smith                        87
+Mark Rogers                       77
+Bill Olney                        55
+John Hill                         50
+Jim Roles                         30
+Jim Barr                          26
+Jackie Almeida                     4
+Dana Naeher                        2
+
+NAME                            2008
+------------------------------  ----
+Dale Carpenter                   328
+Leonard Miller                   280
+Mark Rogers                      267
+Dana Naeher                      225
+Jeff Smith                       219
+Joe Bosko                        196
+Bill Olney                       184
+Gabe Defeo                       144
+Jorge Delgado                    136
+Chuck Rasco                       95
+John Hill                         68
+Jim Roles                         63
+Bobby Peek                        44
+Alan Goldstein                    29
+Joe Greene                        25
+Paul Flaherty                     21
+Joe Bishop                         1
+
+NAME                            2009
+------------------------------  ----
+Dale Carpenter                   423
+Gabe Defeo                       288
+John Hill                        267
+Mark Rogers                      264
+Leonard Miller                   263
+Charles Lynch                    218
+Jim Roles                        172
+Steven Paul                      169
+Jeff Smith                       167
+Damon Sans Souci                  93
+Alan Goldstein                    86
+Bill Olney                        55
+Joe Greene                        47
+Joe Bosko                          5
+Dana Naeher                        4
+Dean Lauritsen (NCAR)              1
+Rich Henning                       1
+
+NAME                            2010
+------------------------------  ----
+Jeff Smith                       519
+Charles Lynch                    367
+Steven Paul                      356
+Mike Mascaro                     249
+Joe Greene                       196
+Dale Carpenter                   190
+Leonard Miller                   162
+Jim Warnecke                     155
+Carlos Quiles                    123
+Mark Rogers                      120
+Alan Goldstein                   108
+Todd Richards                    106
+Bill Olney                       101
+Gabe Defeo                        71
+Jim Roles                         56
+Damon Sans Souci                  39
+Nick Spinler (Intern)             17
+Bobby Peek                         9
+Jorge Delgado                      6
+Sonia Otero                        1
+
+NAME                            2011
+------------------------------  ----
+Jeff Smith                       439
+Todd Richards                    436
+Mike Mascaro                     368
+Steven Paul                      271
+Mark Rogers                      248
+Jeff Newnam                      239
+Bill Olney                       225
+Joe Greene                       195
+Leonard Miller                   137
+Gabe Defeo                       118
+Joe Bosko                        108
+Jim Warnecke                      73
+Damon Sans Souci                  59
+Dale Carpenter                    45
+John Hill                         12
+Carlos Quiles                      2
+Angel Negron                       2
+
+NAME                            2012
+------------------------------  ----
+Mike Mascaro                     281
+Jeff Newnam                      194
+John Hill                        184
+Steven Paul                      157
+Carlos Quiles                    117
+Jim Warnecke                      95
+Leonard Miller                    94
+Todd Richards                     93
+Gabe Defeo                        76
+Jeff Smith                        69
+Mark Rogers                       62
+Dana Naeher                       40
+Alan Goldstein                    34
+Jim Roles                         32
+Bill Olney                        22
+Joe Greene                        21
+Charles Lynch                     20
+Dale Carpenter                    15
+Joe Bosko                          2
+
+NAME                            2013
+------------------------------  ----
+Jeff Newnam                      188
+Dale Carpenter                   178
+John Hill                        156
+Jorge Delgado                    130
+Mike Mascaro                     110
+Jeff Smith                       104
+Leonard Miller                    89
+Todd Richards                     72
+Mark Rogers                       39
+Jim Roles                         27
+Steven Paul                       26
+Bill Olney                        25
+Gabe Defeo                        19
+Alan Goldstein                    18
+Charles Lynch                     11
+Jim Warnecke                       6
+Joe Bosko                          3
+Shannon McElhinney (UHawaii)       2
+Terry Lynch                        1
+Joe Greene                         1
+Anette Foerster (UHawaii)          1
+
+NAME                            2014
+------------------------------  ----
+Todd Richards                    424
+Jeff Smith                       264
+Jeff Newnam                      206
+Leonard Miller                   119
+Jim Warnecke                     118
+Mike Mascaro                     116
+Steven Paul                       94
+John Hill                         67
+Dale Carpenter                    54
+Joe Greene                        37
+Damon Sans Souci                  23
+Charles Lynch                     16
+Gabe Defeo                         4
+Kyle Smith (Intern)                1
+
+NAME                            2015
+------------------------------  ----
+Mike Mascaro                     408
+Jim Warnecke                     364
+Leonard Miller                   180
+Jeff Newnam                      162
+Jeff Hartberger                  133
+Jeff Smith                       108
+Dale Carpenter                    95
+Joe Greene                        51
+Todd Richards                     49
+John Hill                         34
+Gabe Defeo                        14
+Dana Naeher                       14
+Charles Lynch                      7
+Steven Paul                        4
+
+NAME                            2016
+------------------------------  ----
+Jeff Smith                       507
+John Hill                        450
+Gabe Defeo                       342
+Leonard Miller                   204
+Charles Lynch                    190
+Todd Richards                    161
+Joe Greene                       126
+Steven Paul                      121
+Jeff Hartberger                  112
+Jorge Delgado                     88
+Jim Warnecke                      68
+Jeff Newnam                       66
+Bill Olney                        65
+Bobby Peek                        30
+Damon Sans Souci                  19
+Dale Carpenter                    11
+Anu Simon (NHC)                    5
+Dana Naeher                        2
+Katherine McCaffrey (ERSL/PSD)     2
+Mike Mueller (ERSL/PSD)            2
+Nick Underwood                     2
+Kelly Mahoney (ERSL/PSD)           1
+Elena Konopleva (ERSL/PSD)         1
+Kelvin Richards (UHawaii)          1
+Andrew Penny (NHC)                 1
+
+NAME                            2017
+------------------------------  ----
+Akshar Patel                     216
+Jim Warnecke                     210
+Nick Underwood                   210
+Jorge Delgado                    179
+Jim Roles                        135
+Michael McAlister                128
+Joe Greene                       120
+Jeff Smith                       112
+Jeff Hartberger                  100
+Ansaruddin Hasan (USPHS)         100
+Gabe Defeo                        83
+Charles Lynch                     31
+Steven Paul                       27
+Todd Richards                     20
+Dean Lauritsen (NCAR)             10
+Leonard Miller                     8
+Rob Miletic                        1
+
+NAME                            2018
+------------------------------  ----
+Jeff Smith                       429
+Akshar Patel                     374
+Nick Underwood                   267
+Michael McAlister                219
+Jim Warnecke                     168
+Leonard Miller                   129
+Jeff Hartberger                  128
+Terry Lynch                      115
+Dale Carpenter                    82
+Jorge Delgado                     74
+Steven Paul                       71
+Gabe Defeo                        55
+Jeff Newnam                       51
+Charles Lynch                     49
+Dana Naeher                       27
+Todd Richards                      8
+Kathryn Sellwood (HRD)             4
+
+NAME                            2019
+------------------------------  ----
+Nick Underwood                   330
+Todd Richards                    251
+Akshar Patel                     190
+Steven Paul                      178
+Joe Greene                       156
+Jeff Smith                       152
+Jorge Delgado                    136
+Jim Warnecke                     111
+Leonard Miller                    84
+Michael McAlister                 78
+Gabe Defeo                        54
+Terry Lynch                       42
+Kyle Smith (Intern)               36
+Rich Henning                      29
+Jeff Hartberger                   17
+Charles Lynch                     16
+Jeff Newnam                        4
+James Carpenter                    4
+Jason Mansour                      2
+Kevin Rotteveel                    1
+
+NAME                            2020
+------------------------------  ----
+Akshar Patel                     654
+Michael McAlister                581
+Nick Underwood                   574
+Jeff Hartberger                  487
+Steven Paul                      363
+Jim Warnecke                     294
+Gabe Defeo                       170
+Todd Richards                     38
+Charles Lynch                     33
+Leonard Miller                     8
+Mike Mascaro                       6
+Tom Corrigham (AR)                 3
+David Bishop (???)                 3
+Jeff Newnam                        2
+Allison Michaelis (AR)             2
+Nikki Hathaway                     2
+Valerie Thaler (NWS Portland)      2
+
+NAME                            2021
+------------------------------  ----
+Jim Warnecke                     557
+Akshar Patel                     324
+Steven Paul                      257
+Michael McAlister                226
+Nick Underwood                   195
+Jeff Hartberger                  112
+Gabe Defeo                       107
+Joe Greene                        56
+Charles Lynch                     33
+Nathan Knebel                     27
+Matthew DeTienne                  11
+Todd Richards                      5
+Mike Mascaro                       1
+
+NAME                            2022
+------------------------------  ----
+Jim Warnecke                     443
+Brian Dykeman                    384
+Akshar Patel                     331
+Rennie Andrews                   215
+Jeff Hartberger                  147
+Charles Lynch                    118
+Rebecca Keller                   114
+Jake Lambert                      95
+Steven Paul                       63
+Gabe Defeo                        51
+Mike Mascaro                      32
+Auston Roche                       5
+Sofia de Solo                      3
+Joe Mazur                          3
+Jeff Newnam                        1
+A Wilson (?)                       1
+
+NAME                            2023
+------------------------------  ----
+Rocky Weinmann                   315
+Rebecca Keller                   274
+Henry Kotz                       264
+Akshar Patel                     240
+Leanne Waggoner                  226
+Alfredo Santoni                  193
+Gabe Defeo                       185
+Brian Dykeman                    173
+Jim Warnecke                     121
+Nick Underwood                    75
+Jeff Hartberger                   69
+Steven Paul                       37
+Jake Lambert                      17
+Todd Richards                      1
+
+NAME                            2024
+------------------------------  ----
+Alfredo Santoni                  266
+Tom Brannigan                    246
+Jalime Vargas                    236
+Henry Kotz                       222
+Brian Dykeman                    196
+Mike Mascaro                     159
+Rebecca Keller                   145
+Scott Hollis                     128
+Steven Paul                      124
+Jason Hunsinger                  112
+Akshar Patel                     100
+Charles Lynch                     99
+Nick Underwood                    72
+Todd Richards                     61
+Rennie Andrews                    53
+Sofia de Solo                      4
+Gabe Defeo                         3
+
+NAME                            2025
+------------------------------  ----
+Scott Hollis                     573
+Jason Hunsinger                  311
+Jalime Vargas                    263
+Walter Holiday                   244
+Alfredo Santoni                  217
+Tom Brannigan                    179
+Brian Dykeman                    174
+Martin Longtin                   131
+Rennie Andrews                   128
+Akshar Patel                     121
+Rebecca Keller                    95
+Steven Paul                       76
+Dion Ngo                          59
+Henry Kotz                        11
+Mike Mascaro                       2
+Gabe Defeo                         1
+Nick Underwood                     1
+Billy Wysinger                     1
+
+NAME                            2026
+------------------------------  ----
+Scott Hollis                     189
+Steven Paul                      144
+Alfredo Santoni                   87
+Dion Ngo                          80
+Jason Hunsinger                   75
+Gabe Defeo                        32
+Mike Mascaro                      21
+Henry Kotz                         2

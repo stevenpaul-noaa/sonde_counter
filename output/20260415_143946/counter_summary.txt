@@ -1,0 +1,36 @@
+
+-----------------------
+TOTALS BY CALENDAR YEAR
+-----------------------
+
+NAME       2004  TOTAL
+---------- ---- ------
+Jeff Smith   25     25
+
+---------------------
+TOTALS BY FISCAL YEAR
+---------------------
+
+NAME       FY04  TOTAL
+---------- ---- ------
+Jeff Smith   25     25
+
+-----------------
+TOP DROPPER TITLE
+-----------------
+
+ DROPS  NAME        DATE/TIME
+------  ----------  -------------------
+     1  Jeff Smith  2004-09-12 10:42:47
+    25  Jeff Smith  2004-09-12 15:38:08
+
+Processing Time: 0m  0.93s
+Minimum Date:    0000-00-00
+Maximum Date:    9999-99-99
+Latest Data:     2004-09-12
+Sondes Launched: 26
+
+Good Files:      26
+Dupe Files:       0
+Bad Files:       16
+TOTAL FILES:     42
